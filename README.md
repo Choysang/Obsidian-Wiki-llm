@@ -1,3 +1,9 @@
+> **本项目已合并到 [Agent Suite](https://github.com/Choysang/agent-suite)，后续只在总仓库维护。**
+> [查看本模块的新介绍](https://github.com/Choysang/agent-suite/tree/main/knowledge) · [只下载本模块](https://github.com/Choysang/agent-suite/releases/latest/download/knowledge.zip)
+> 本仓库保留为迁移记录，以下内容为迁移前版本。
+
+---
+
 # Obsidian-Wiki-LLM
 
 **🌐 [English](README.en.md) | 中文**
